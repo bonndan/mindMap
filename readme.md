@@ -2,7 +2,7 @@
 
 Each node in a tree (mindmap) can hold a number which either is its own value or the sum of its children's values.
 
-![screenshot](https://github.com/bonndan/mindMap/raw/develop/doc/screenshot.png "Usage")
+![screenshot](https://github.com/bonndan/mindMap/raw/develop/docs/screenshot.png "Usage")
 
 ## Motivation
 
