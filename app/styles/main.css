@@ -90,3 +90,10 @@ g:hover > .function-btn{
 .function-bg{
   cursor: pointer;  
 }
+
+text .estimation {
+  stroke: steelblue;
+  stroke-width: 1.5px;
+  color: rgb(3, 52, 116);
+  font-size: 12px;
+}
